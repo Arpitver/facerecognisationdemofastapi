@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+python-multipart
+numpy
+pillow
+face_recognition
+setuptools
